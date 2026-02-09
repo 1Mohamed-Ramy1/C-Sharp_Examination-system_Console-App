@@ -1,0 +1,192 @@
+[
+  {
+    "Id": 0,
+    "UserId": 2,
+    "ExamId": 0,
+    "Score": 20.0,
+    "TotalMarks": 20.0,
+    "Percentage": 100.0,
+    "Grade": "A+",
+    "Passed": true,
+    "DateTaken": "2026-02-03T21:08:14.2603376+02:00",
+    "TimeTaken": "00:00:30.7176754",
+    "UserAnswers": [
+      {
+        "QuestionId": 0,
+        "AnswerText": "int x;",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 1,
+        "AnswerText": "do-while loop",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 2,
+        "AnswerText": "True",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 3,
+        "AnswerText": "2",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "UserId": -1,
+    "ExamId": 0,
+    "Score": 20.0,
+    "TotalMarks": 25.0,
+    "Percentage": 80.0,
+    "Grade": "B",
+    "Passed": true,
+    "DateTaken": "2026-02-05T03:56:43.7723493+02:00",
+    "TimeTaken": "00:01:45.3981285",
+    "UserAnswers": [
+      {
+        "QuestionId": 0,
+        "AnswerText": "int x;",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 1,
+        "AnswerText": "do-while loop",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 2,
+        "AnswerText": "True",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 3,
+        "AnswerText": "2",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 4,
+        "AnswerText": "A class definition",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "UserId": -1,
+    "ExamId": 0,
+    "Score": 25.0,
+    "TotalMarks": 25.0,
+    "Percentage": 100.0,
+    "Grade": "A+",
+    "Passed": true,
+    "DateTaken": "2026-02-05T03:59:10.9915254+02:00",
+    "TimeTaken": "00:00:12.5741489",
+    "UserAnswers": [
+      {
+        "QuestionId": 0,
+        "AnswerText": "int x;",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 1,
+        "AnswerText": "do-while loop",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 2,
+        "AnswerText": "True",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 3,
+        "AnswerText": "2",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 4,
+        "AnswerText": "A named container for storing data",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "UserId": 0,
+    "ExamId": 0,
+    "Score": 25.0,
+    "TotalMarks": 25.0,
+    "Percentage": 100.0,
+    "Grade": "A+",
+    "Passed": true,
+    "DateTaken": "2026-02-05T04:00:12.4874433+02:00",
+    "TimeTaken": "00:00:13.8362305",
+    "UserAnswers": [
+      {
+        "QuestionId": 0,
+        "AnswerText": "int x;",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 1,
+        "AnswerText": "do-while loop",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 2,
+        "AnswerText": "True",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 3,
+        "AnswerText": "2",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 4,
+        "AnswerText": "A named container for storing data",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "UserId": 5,
+    "ExamId": 0,
+    "Score": 15.0,
+    "TotalMarks": 25.0,
+    "Percentage": 60.0,
+    "Grade": "D",
+    "Passed": true,
+    "DateTaken": "2026-02-05T04:43:54.3153646+02:00",
+    "TimeTaken": "00:01:16.6887107",
+    "UserAnswers": [
+      {
+        "QuestionId": 0,
+        "AnswerText": "int x;",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 1,
+        "AnswerText": "do-while loop",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 2,
+        "AnswerText": "True",
+        "IsCorrect": true
+      },
+      {
+        "QuestionId": 3,
+        "AnswerText": "2.5",
+        "IsCorrect": false
+      },
+      {
+        "QuestionId": 4,
+        "AnswerText": "A class definition",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

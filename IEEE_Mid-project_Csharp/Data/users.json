@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Username": "admin2",
+    "Email": "admin2@edu.com",
+    "Password": "Admin2",
+    "IsAdmin": true,
+    "ExamHistory": [],
+    "RegistrationDate": "2026-02-03T21:04:33.6872375+02:00"
+  },
+  {
+    "Id": 2,
+    "Username": "student",
+    "Email": "student@edu.com",
+    "Password": "Student",
+    "IsAdmin": false,
+    "ExamHistory": [],
+    "RegistrationDate": "2026-02-03T21:04:33.6872954+02:00"
+  },
+  {
+    "Id": 3,
+    "Username": "medo",
+    "Email": "medo@edu.com",
+    "Password": "A7a0",
+    "IsAdmin": false,
+    "ExamHistory": [
+      0
+    ],
+    "RegistrationDate": "2026-02-03T21:04:33.6865343+02:00"
+  },
+  {
+    "Id": 4,
+    "Username": "you",
+    "Email": "you@edu.com",
+    "Password": "Medo0",
+    "IsAdmin": false,
+    "ExamHistory": [],
+    "RegistrationDate": "2026-02-04T15:48:41.8903555+02:00"
+  },
+  {
+    "Id": 0,
+    "Username": "admin",
+    "Email": "admin",
+    "Password": "admin",
+    "IsAdmin": true,
+    "ExamHistory": [
+      3
+    ],
+    "RegistrationDate": "2026-02-05T03:59:42.0051388+02:00"
+  },
+  {
+    "Id": 5,
+    "Username": "seif",
+    "Email": "seif@edu.com",
+    "Password": "Seif0",
+    "IsAdmin": false,
+    "ExamHistory": [
+      4
+    ],
+    "RegistrationDate": "2026-02-05T04:40:56.8057813+02:00"
+  }
+]

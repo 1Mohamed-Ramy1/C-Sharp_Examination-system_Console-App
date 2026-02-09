@@ -1,0 +1,54 @@
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.AssemblyReference.cache
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.AssemblyInfoInputs.cache
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.AssemblyInfo.cs
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.CoreCompileInputs.cache
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\bin\Debug\net8.0\Mid_Proj.exe
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\bin\Debug\net8.0\Mid_Proj.deps.json
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\bin\Debug\net8.0\Mid_Proj.runtimeconfig.json
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\bin\Debug\net8.0\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\bin\Debug\net8.0\Mid_Proj.pdb
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\bin\Debug\net8.0\Spectre.Console.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.Up2Date
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\refint\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.pdb
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\Mid_Proj.genruntimeconfig.cache
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\obj\Debug\net8.0\ref\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Examination system_Csharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.exe
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.deps.json
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.runtimeconfig.json
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.pdb
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Spectre.Console.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.AssemblyReference.cache
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.AssemblyInfoInputs.cache
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.AssemblyInfo.cs
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.CoreCompileInputs.cache
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.Up2Date
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\refint\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.pdb
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.genruntimeconfig.cache
+D:\BackEnd\BackEnd (.NET)\C-sharp-exam-console-app-main\IEEE_Mid-project_Csharp\obj\Debug\net8.0\ref\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.exe
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.deps.json
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.runtimeconfig.json
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Mid_Proj.pdb
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\bin\Debug\net8.0\Spectre.Console.dll
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.AssemblyReference.cache
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.AssemblyInfoInputs.cache
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.AssemblyInfo.cs
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.CoreCompileInputs.cache
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.csproj.Up2Date
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\refint\Mid_Proj.dll
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.pdb
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\Mid_Proj.genruntimeconfig.cache
+D:\BackEnd\BackEnd (.NET)\IEEE Course\Project_Mid\C#_Examination system_IEEE\IEEE_Mid-project_Csharp\obj\Debug\net8.0\ref\Mid_Proj.dll

@@ -1,0 +1,933 @@
+[
+  {
+    "Id": 0,
+    "SubjectId": 0,
+    "Title": "Programming Fundamentals - Quick Quiz",
+    "TimeLimit": 5,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is the correct way to declare an integer variable in C#?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "int x;",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "integer x;",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "var x: int;",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "Which loop is guaranteed to execute at least once?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "for loop",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "while loop",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "do-while loop",
+            "IsRightAnswer": true
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Header": "Arrays in C# are zero-indexed.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 3,
+        "Header": "What is the output of: Console.WriteLine(5 / 2);",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "2.5",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "2",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "3",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Header": "What is a variable?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A named container for storing data",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A function that returns values",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A class definition",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "SubjectId": 1,
+    "Title": "Object-Oriented Programming - Quiz",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is encapsulation?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Wrapping data and methods in a single unit",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Creating multiple classes",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Inheritance of properties",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "Inheritance allows a class to inherit properties from another class.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What is polymorphism?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Many forms of behavior",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Single form of class",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Multiple inheritance",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "What is an abstract class?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A class that cannot be instantiated",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A class with abstract methods only",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A final class",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Header": "Interfaces define a contract for derived classes.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "SubjectId": 2,
+    "Title": "Data Structures - Quiz",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is an array?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A collection of elements of the same type",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A single element container",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A linked list structure",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "A stack follows LIFO principle.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What does FIFO stand for?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "First In First Out",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "First In Last Out",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Fast Input Fast Output",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "A queue uses FIFO ordering.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 4,
+        "Header": "What is a linked list?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Nodes connected by pointers/references",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A contiguous memory array",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A key-value pair collection",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "SubjectId": 3,
+    "Title": "Algorithms - Quiz",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is the time complexity of binary search?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "O(log n)",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "O(n)",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "O(n²)",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "Bubble sort is the most efficient sorting algorithm.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": false,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What is the time complexity of quicksort on average?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "O(n log n)",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "O(n²)",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "O(log n)",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "Recursion uses a stack internally.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 4,
+        "Header": "What is dynamic programming?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Solving problems by breaking them into subproblems",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A programming language feature",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Runtime code modification",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "SubjectId": 4,
+    "Title": "Discrete Mathematics - Quiz",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is a set?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A collection of unique elements",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "An ordered list of elements",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A mathematical function",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "In set theory, the union contains all unique elements from both sets.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What is a relation?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A set of ordered pairs",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A single pair of elements",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A mathematical function only",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "A function is a special type of relation.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 4,
+        "Header": "What does combinatorics study?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Counting and arrangements",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Mathematical logic",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Graph theory",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "SubjectId": 5,
+    "Title": "Database Systems - Quiz",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is a primary key?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A unique identifier for a record",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "The first column in a table",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A foreign key reference",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "SQL is used for querying relational databases.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What is normalization?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Organizing data to reduce redundancy",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Deleting unnecessary data",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Encrypting database contents",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "A foreign key references a primary key in another table.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 4,
+        "Header": "What is ACID?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Properties ensuring reliable transactions",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A database type",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A SQL command",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "SubjectId": 6,
+    "Title": "Operating Systems - Quiz",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is a process?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "An instance of a program in execution",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A file on disk",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A thread of execution",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "Multithreading allows concurrent execution within a single process.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What is virtual memory?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Using disk space as if it were RAM",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Memory used by virtual machines",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Encrypted memory space",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "A deadlock occurs when processes wait for each other indefinitely.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 4,
+        "Header": "What is context switching?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Switching between processes/threads",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Changing memory pages",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Switching between CPUs",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "SubjectId": 7,
+    "Title": "Computer Networks - Quiz",
+    "TimeLimit": 5,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is the purpose of the OSI model?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "To standardize network communication",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "To encrypt network traffic",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "To manage IP addresses",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "TCP is a connectionless protocol.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": false,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What is DNS?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Translates domain names to IP addresses",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A security protocol",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A file transfer protocol",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "HTTP operates at the application layer.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 4,
+        "Header": "What is a subnet?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A division of an IP network",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A type of network cable",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A protocol layer",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "SubjectId": 8,
+    "Title": "Software Engineering - Quiz",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is the software development lifecycle (SDLC)?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Process of developing software from requirement to deployment",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A programming language",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A testing methodology",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "Agile methodology emphasizes flexibility and iterative development.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What is a design pattern?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A reusable solution to common design problems",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A type of UI design",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A testing pattern",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "Unit testing tests individual functions or methods.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 4,
+        "Header": "What does DRY stand for?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Don't Repeat Yourself",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Data Repair Yield",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Design Review Yield",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "SubjectId": 9,
+    "Title": "Theory of Computation - Quiz",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "What is a Turing machine?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "A theoretical model of computation",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "A physical computer",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "A programming language",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Header": "A context-free grammar is more powerful than a regular grammar.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 2,
+        "Header": "What is the Halting Problem?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Determining if a program will halt",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Stopping a running program",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Optimizing computation speed",
+            "IsRightAnswer": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": "NP-complete problems are solvable in polynomial time.",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": false,
+        "Answers": null
+      },
+      {
+        "Id": 4,
+        "Header": "What is an NFA?",
+        "Mark": 5.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "Nondeterministic Finite Automaton",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "Network File Access",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "Natural Format Architecture",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "SubjectId": 3,
+    "Title": "Quiz 2",
+    "TimeLimit": 10,
+    "Type": "Quiz",
+    "Questions": [
+      {
+        "Id": 0,
+        "Header": "qwqwqww",
+        "Mark": 5.0,
+        "IsTrueFalse": true,
+        "Answer": true,
+        "Answers": null
+      },
+      {
+        "Id": 1,
+        "Header": "22323",
+        "Mark": 2.0,
+        "IsTrueFalse": false,
+        "Answer": null,
+        "Answers": [
+          {
+            "AnswerText": "1",
+            "IsRightAnswer": false
+          },
+          {
+            "AnswerText": "2",
+            "IsRightAnswer": true
+          },
+          {
+            "AnswerText": "3",
+            "IsRightAnswer": false
+          }
+        ]
+      }
+    ]
+  }
+]

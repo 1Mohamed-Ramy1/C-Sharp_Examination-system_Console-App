@@ -1,0 +1,129 @@
+[
+  {
+    "Id": 0,
+    "Name": "Programming Fundamentals",
+    "Topics": [
+      "Variables & Data Types",
+      "Conditions (if / switch)",
+      "Loops (for / while)",
+      "Functions",
+      "Arrays & Strings",
+      "Basic problem solving"
+    ]
+  },
+  {
+    "Id": 1,
+    "Name": "Object-Oriented Programming",
+    "Topics": [
+      "Classes & Objects",
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism",
+      "Abstraction",
+      "Constructors / Destructors",
+      "Interfaces & Virtual Functions"
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Data Structures",
+    "Topics": [
+      "Array / Vector",
+      "Linked List",
+      "Stack",
+      "Queue / Deque",
+      "Priority Queue",
+      "Set / Map",
+      "Hashing",
+      "Trees (BST, Heap)"
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Algorithms",
+    "Topics": [
+      "Time & Space Complexity (Big O)",
+      "Searching (Linear / Binary)",
+      "Sorting (Bubble, Merge, Quick)",
+      "Recursion",
+      "Greedy Algorithms",
+      "Divide & Conquer",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Discrete Mathematics",
+    "Topics": [
+      "Logic (AND, OR, NOT)",
+      "Set Theory",
+      "Relations & Functions",
+      "Permutations & Combinations",
+      "Graph Theory basics",
+      "Proof Techniques"
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Database Systems",
+    "Topics": [
+      "Database Concepts",
+      "ER Diagram",
+      "Relational Model",
+      "SQL (Select, Join, Subquery)",
+      "Normalization",
+      "Indexing",
+      "Transactions & ACID"
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Operating Systems",
+    "Topics": [
+      "Process & Threads",
+      "CPU Scheduling",
+      "Memory Management",
+      "Deadlock",
+      "File Systems",
+      "Synchronization",
+      "Virtual Memory"
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Computer Networks",
+    "Topics": [
+      "OSI & TCP/IP Model",
+      "IP, MAC, DNS",
+      "TCP vs UDP",
+      "HTTP / HTTPS",
+      "Routing & Switching",
+      "Network Security basics"
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Software Engineering",
+    "Topics": [
+      "SDLC",
+      "Requirements Analysis",
+      "UML Diagrams",
+      "Design Patterns",
+      "Agile / Scrum",
+      "Testing (Unit / Integration)",
+      "Version Control (Git)"
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Theory of Computation",
+    "Topics": [
+      "Automata (DFA / NFA)",
+      "Regular Expressions",
+      "Context-Free Grammar",
+      "Turing Machines",
+      "Decidability"
+    ]
+  }
+]
