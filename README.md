@@ -6,6 +6,52 @@ An advanced C# console application for managing online exams. The system provide
 
 ---
 
+## Picuters:
+
+<img width="1216" height="905" alt="image" src="https://github.com/user-attachments/assets/06c620a2-9a5e-4a1c-834a-df6c3d6dd3f0" />
+
+<img width="1255" height="902" alt="image" src="https://github.com/user-attachments/assets/ef1e4bf0-2e24-4c80-9ac1-43d50e1d0db8" />
+
+<img width="676" height="915" alt="image" src="https://github.com/user-attachments/assets/780dc238-c596-401e-a618-750633e37908" />
+
+<img width="980" height="901" alt="image" src="https://github.com/user-attachments/assets/6053c959-0200-4293-9529-9f30c15f5cf4" />
+
+<img width="749" height="906" alt="image" src="https://github.com/user-attachments/assets/f15a765f-e9c8-4f36-9647-33e70deac95d" />
+
+<img width="746" height="909" alt="image" src="https://github.com/user-attachments/assets/d6da5a5e-ddf4-4a03-9f84-b40a358b476d" />
+
+<img width="729" height="911" alt="image" src="https://github.com/user-attachments/assets/7479682d-9dbb-4e68-9473-46e136c1eb63" />
+
+<img width="762" height="906" alt="image" src="https://github.com/user-attachments/assets/64b7e852-5837-42d9-9f2c-22c152d09b4d" />
+
+<img width="672" height="911" alt="image" src="https://github.com/user-attachments/assets/480d96d0-a8ee-4705-b398-a7f8bb02ee1d" />
+
+<img width="701" height="917" alt="image" src="https://github.com/user-attachments/assets/42d21caa-7ef2-4cd7-9e12-6ae4893d599b" />
+
+<img width="1038" height="915" alt="image" src="https://github.com/user-attachments/assets/ded7ddf8-4b33-48dd-b5cf-6c6fd7fc60f3" />
+
+<img width="843" height="906" alt="image" src="https://github.com/user-attachments/assets/8cded039-6b5d-4ffc-ab20-5738e103fd90" />
+
+<img width="809" height="915" alt="image" src="https://github.com/user-attachments/assets/673bc77e-0d93-49da-9f39-2014e43a019a" />
+
+<img width="763" height="915" alt="image" src="https://github.com/user-attachments/assets/2e6eeb20-15f8-4573-a7c5-9ac871bc80d1" />
+
+<img width="739" height="185" alt="image" src="https://github.com/user-attachments/assets/6c73e600-7510-4999-937d-3a54bad6de56" />
+
+<img width="904" height="915" alt="image" src="https://github.com/user-attachments/assets/96a4883f-951e-4a4b-a2fc-5795fbe93c1b" />
+
+<img width="773" height="905" alt="image" src="https://github.com/user-attachments/assets/c646d2bb-6df8-42b5-b7a1-40d6e8097461" />
+
+<img width="694" height="917" alt="image" src="https://github.com/user-attachments/assets/5c1e0763-ed32-4f80-8d5b-cd1f4db457a6" />
+
+<img width="677" height="910" alt="image" src="https://github.com/user-attachments/assets/d8cc3fb9-7c90-4bb4-b1d4-97770a194620" />
+
+<img width="809" height="249" alt="image" src="https://github.com/user-attachments/assets/3b85f6ad-cb0d-4f5b-8509-367c33eab1c6" />
+
+<img width="1308" height="145" alt="image" src="https://github.com/user-attachments/assets/22f2e1db-737d-44c1-916d-194f41f5c37f" />
+
+---
+
 ## ⚠️ Important Note - Admin Access
 
 ### Default Admin Credentials:
